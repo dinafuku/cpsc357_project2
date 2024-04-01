@@ -1,0 +1,38 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Candyland",
+        "description": "Candy Land (also known as Candyland) is a simple racing board game created by Eleanor Abbott and published by Milton Bradley in 1948. The game requires no reading and minimal counting skills, making it suitable for young children. No strategy is involved as players are never required to make choices; only following directions is required. About one million copies per year are sold.",
+        "isPopular": true,
+        "imageName": "candyland"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Sorry!",
+        "description": "Sorry! is a board game that is based on the ancient Indian cross and circle game Pachisi. Players move their three or four pieces around the board, attempting to get all of their pieces \"home\" before any other player.",
+        "isPopular": true,
+        "imageName": "sorry"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Game of Life",
+        "description": "The Game of Life: Card Game is a card game created by Rob Daviau and published by Hasbro in 2002. The object of the game is to collect as many points as possible before the letters for L.I.F.E. are drawn. The game begins with each player first deciding whether to pick a career right away or go to college and get a career afterwards.",
+        "isPopular": false,
+        "imageName": "gol"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Catan",
+        "description": "Catan, previously known as The Settlers of Catan or simply Settlers, is a multiplayer board game designed by Klaus Teuber. Players take on the roles of settlers, each attempting to build and develop holdings while trading and acquiring resources.",
+        "isPopular": true,
+        "imageName": "catan"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Monopoly",
+        "description": "Monopoly is a multiplayer economics-themed board game. In the game, players roll two dice to move around the game board, buying and trading properties and developing them with houses and hotels. Players collect rent from their opponents and aim to drive them into bankruptcy.",
+        "isPopular": true,
+        "imageName": "monopoly"
+    }
+    
+]
